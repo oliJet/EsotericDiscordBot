@@ -3,7 +3,7 @@
     "EsotericDiscordBot": {
       "commandName": "Project",
       "environmentVariables": {
-        "DiscordToken": "NzAzMDQ4OTYyMjIzMTEyMjY0.XqI_rw.xduYMD6T3b5Y4VDiqa8a1xx0gcs"
+        "DiscordToken": ""
       }
     }
   }
